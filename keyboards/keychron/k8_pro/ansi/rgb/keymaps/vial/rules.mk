@@ -1,0 +1,8 @@
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+VIAL_INSECURE = yes
+VIALRGB_ENABLE = yes
+
+LTO_ENABLE = no
+
+MIDI_ENABLE = no
